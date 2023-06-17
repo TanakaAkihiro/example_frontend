@@ -16,6 +16,8 @@ const ExerciseList = () => (
     <Exercise exerciseNumber="2.4" ExerciseComponent={<RedisSetup />} />
     <Exercise exerciseNumber="2.6" ExerciseComponent={<PostgresConnection />} />
     <Exercise exerciseNumber="2.8" ExerciseComponent={<NginxSetup />} />
+    <h3>Part 3</h3>
+    <p>Watchtower</p>
   </div>
 );
 
